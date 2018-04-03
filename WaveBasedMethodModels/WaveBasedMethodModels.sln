@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveBasedMethodModels", "WaveBasedMethodModels\WaveBasedMethodModels.csproj", "{EFD1847B-CA13-4046-8984-90588BCF4DA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveBasedMethodModel", "WaveBasedMethodModels\WaveBasedMethodModel.csproj", "{EFD1847B-CA13-4046-8984-90588BCF4DA5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBMTester", "WBMTester\WBMTester.csproj", "{6DB054B3-436D-4B27-9661-58D5EAC38231}"
 EndProject

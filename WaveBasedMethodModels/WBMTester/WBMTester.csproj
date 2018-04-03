@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WaveBasedMethodModels\WaveBasedMethodModels.csproj" />
+    <ProjectReference Include="..\WaveBasedMethodModels\WaveBasedMethodModel.csproj" />
   </ItemGroup>
 </Project>
