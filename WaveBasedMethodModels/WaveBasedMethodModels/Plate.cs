@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace WaveBasedMethodModel
 {
     public class Plate

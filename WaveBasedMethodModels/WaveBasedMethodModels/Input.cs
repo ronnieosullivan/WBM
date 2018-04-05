@@ -23,15 +23,15 @@ namespace WaveBasedMethodModel
         public override string ToString()
         {
             var res = new StringBuilder();
-            res.Append("Input:\nrooms = ");
+            res.Append("Input:\n rooms = \n");
             foreach (var room in _rooms)
             {
-                res.Append(room.ToString());
+                res.Append(room.ToString() + "\n");
             }
-            res.Append("\nplates = ");
+            res.Append("\n plates = \n");
             foreach (var plate in _plates)
             {
-                res.Append(plate.ToString());
+                res.Append(plate.ToString() + "\n");
             }
             return res.ToString();
         }
